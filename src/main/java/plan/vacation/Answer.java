@@ -16,7 +16,7 @@ public class Answer {
         {0, 0, 0, 0}, {0, 3, 1, 2}, {0, 0, 0, 0}, {1, 3, 0, 2},
         {1, 3, 0, 2}, {0, 2, 3, 3}
     };
-
+    /*
     final private String[] spanishAnswerList = new String[] {
         "Solo Ingles!",
         "Hola, bonjour, ni hao!",
@@ -67,7 +67,7 @@ public class Answer {
          "Árboles, hierba y todo lo verde en el medio",
          "Un impresionante océano, lago o cuerpo de agua brillante azul cerúleo",
          "Dunas y cañones ondulados del desierto recortados por una puesta de sol"
-    };
+    }; */
 
     final private String[] possibleAnswers = new String[] {
         "Ingles only!",
